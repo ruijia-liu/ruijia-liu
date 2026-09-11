@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ruijia 👋
 
-<!--
-**ruijia-liu/ruijia-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Physics undergraduate at the University of Manchester, interested in computational physics, machine learning, and scientific computing.
 
-Here are some ideas to get you started:
+## Interests
+- Computational Physics
+- Machine Learning for Science
+- Numerical Simulation
+- Data Analysis
+- Physics-informed AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+Python · MATLAB · Java · NumPy · SciPy · scikit-learn · Matplotlib
+
+## Current Work
+I'm currently building projects in scientific computing and machine learning, with a focus on applications in physics and data-driven research.
