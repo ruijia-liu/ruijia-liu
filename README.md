@@ -1,6 +1,5 @@
 # Hi, I'm Ruijia 👋
 
-I'm a Physics undergraduate at the University of Manchester, interested in computational physics, machine learning, and scientific computing.
 
 ## Interests
 - Computational Physics
